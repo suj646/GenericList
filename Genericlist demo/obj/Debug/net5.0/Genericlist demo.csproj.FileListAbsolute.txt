@@ -1,0 +1,16 @@
+F:\DOTNET\Genericlist-demo\Genericlist demo\bin\Debug\net5.0\Genericlist demo.exe
+F:\DOTNET\Genericlist-demo\Genericlist demo\bin\Debug\net5.0\Genericlist demo.deps.json
+F:\DOTNET\Genericlist-demo\Genericlist demo\bin\Debug\net5.0\Genericlist demo.runtimeconfig.json
+F:\DOTNET\Genericlist-demo\Genericlist demo\bin\Debug\net5.0\Genericlist demo.runtimeconfig.dev.json
+F:\DOTNET\Genericlist-demo\Genericlist demo\bin\Debug\net5.0\Genericlist demo.dll
+F:\DOTNET\Genericlist-demo\Genericlist demo\bin\Debug\net5.0\ref\Genericlist demo.dll
+F:\DOTNET\Genericlist-demo\Genericlist demo\bin\Debug\net5.0\Genericlist demo.pdb
+F:\DOTNET\Genericlist-demo\Genericlist demo\obj\Debug\net5.0\Genericlist demo.csproj.AssemblyReference.cache
+F:\DOTNET\Genericlist-demo\Genericlist demo\obj\Debug\net5.0\Genericlist demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\Genericlist-demo\Genericlist demo\obj\Debug\net5.0\Genericlist demo.AssemblyInfoInputs.cache
+F:\DOTNET\Genericlist-demo\Genericlist demo\obj\Debug\net5.0\Genericlist demo.AssemblyInfo.cs
+F:\DOTNET\Genericlist-demo\Genericlist demo\obj\Debug\net5.0\Genericlist demo.csproj.CoreCompileInputs.cache
+F:\DOTNET\Genericlist-demo\Genericlist demo\obj\Debug\net5.0\Genericlist demo.dll
+F:\DOTNET\Genericlist-demo\Genericlist demo\obj\Debug\net5.0\ref\Genericlist demo.dll
+F:\DOTNET\Genericlist-demo\Genericlist demo\obj\Debug\net5.0\Genericlist demo.pdb
+F:\DOTNET\Genericlist-demo\Genericlist demo\obj\Debug\net5.0\Genericlist demo.genruntimeconfig.cache
